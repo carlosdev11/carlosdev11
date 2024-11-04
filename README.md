@@ -20,6 +20,9 @@ Graduado en DAM👨‍💻
 
 **Otros**  
 <img src="https://github.com/user-attachments/assets/1d8d9924-21a3-4e66-9126-448995b9649a.png" width="40" height="40"/>
+![image](https://github.com/user-attachments/assets/2054adee-e44a-4086-ba56-dcf0ec8fdded)
+
+
 
 
 ### 📊 Estadísticas de GitHub
