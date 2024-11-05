@@ -28,7 +28,7 @@ Graduado en DAM👨‍💻
 ------------------------------------------------------------------------------
 
 ### 🏆 Logros Destacados
-- 🥇 Certificado en Curso Web Scraping con Python([link](https://www.udemy.com/certificate/UC-2ae4a06d-b86b-43c1-a88e-2d372b8850e6/))
+- 🥇 Certificado en Curso Web Scraping con Python([certificado](https://www.udemy.com/certificate/UC-2ae4a06d-b86b-43c1-a88e-2d372b8850e6/))
 
 ------------------------------------------------------------------------------
 
