@@ -20,16 +20,17 @@ Graduado en DAM👨‍💻
 **Bases de datos**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-
 ------------------------------------------------------------------------------
-
 
 ### 📊 Estadísticas de GitHub
 [![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=carlosdev11&show_icons=true&theme=radical)](https://github.com/carlosdev11)
 
-
 ------------------------------------------------------------------------------
 
+### 🏆 Logros Destacados
+- 🥇 Certificado en Curso Web Scraping con Python([link](https://www.udemy.com/certificate/UC-2ae4a06d-b86b-43c1-a88e-2d372b8850e6/))
+
+------------------------------------------------------------------------------
 
 ### 📬 Conectemos
 <a href="https://www.linkedin.com/in/carlos-primo-rico/" target="_blank">
